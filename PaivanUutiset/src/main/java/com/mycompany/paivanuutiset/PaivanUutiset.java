@@ -2,6 +2,6 @@
 package com.mycompany.paivanuutiset;
 
 public interface PaivanUutiset {
-    public String haeSatunnainenUutinen();
-    public String haeLyhytUutinen();
+    public String haeSuosituinUutinen();
+    public String haeViimeisinUutinen();
 }
